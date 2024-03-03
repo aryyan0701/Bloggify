@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, OnInit  } from '@angular/core';
+import { Router, NavigationEnd  } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,31 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'first_angular';
+  showContent: boolean = true;
+
+  constructor(private router: Router) {}
+ 
+  ngOnInit(): void {
+    this.router.events.subscribe(event => {
+      if (event instanceof NavigationEnd) {
+        this.showContent = !['/login', '/signup', '/aiml', '/web-app'].includes(event.url);
+      }
+    });
+  }
+
+  navigateToLogin(): void {
+    this.router.navigate(['/login']);
+  }
+
+  navigateToSignup(): void {
+    this.router.navigate(['/signup']);
+  }
+
+  navigateToAiml():void{
+    this.router.navigate(['/aiml']);
+  }
+
+  navigateToWebapp():void{
+    this.router.navigate(['/web-app']);
+  }
 }

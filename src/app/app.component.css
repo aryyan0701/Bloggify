@@ -1,0 +1,51 @@
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    position: absolute;
+    top: 50%;
+    margin: 15px;
+    font-size: 15px;
+    padding: 3px;
+    border-radius: 1rem;
+}
+
+p{
+    margin-top: 5px;
+    font-size: 17px;
+
+}
+
+.counter{
+    position: absolute;
+    top: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    padding: 3px;
+}
+
+button{
+ padding: 3px;
+}
+
+
+
