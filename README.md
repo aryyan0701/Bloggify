@@ -20,6 +20,9 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 ### Home page
 ![Home Page](./src/assets/homepage.png)
 
+### Cards Section
+![cards section](./src/assets/cards.png)
+
 
 
 ## Getting Started
