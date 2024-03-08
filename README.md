@@ -17,6 +17,7 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 - **HTML/CSS:** Standard markup and styling languages are used to create and style the website's layout and appearance.
 
 ## Quick Intro
+### Home page
 ![Home Page](./src/assets/homepage.png)
 
 
