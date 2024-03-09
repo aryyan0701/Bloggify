@@ -23,7 +23,20 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 ### Cards Section
 ![cards section](./src/assets/cards.png)
 
+### login/signup section
+<div class="container" >
+<div align="left" >
+  <img height="400" width="600" src="./src/assets/login.png" style="position: relative; z-index: 1;" />
+  </div>
+  <div align="right" >
+  <img height="400" width="600" src="./src/assets/signup.png" style="position: relative; z-index: 1;" />
+  </div>
+</div>
 
+### Explore topics
+<div align="center" >
+  <img height="400" width="600" src="" style="position: relative; z-index: 1;" />
+</div>
 
 ## Getting Started
 
