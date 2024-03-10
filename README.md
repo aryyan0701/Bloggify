@@ -28,12 +28,15 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 ![signup section](./src/assets/signup.png)
 ![login section](./src/assets/login.png)
 
-
-
 ### Explore topics
-<div align="center" >
-  <img height="400" width="600" src="" style="position: relative; z-index: 1;" />
-</div>
+![AIML section](./src/assets/aiml.png)
+![WEB-APP section](./src/assets/app-web.png)
+
+
+![AIML section](./src/assets/aimlcards.png)
+![AIML section](./src/assets/aimlcards2.png)
+
+
 
 ## Getting Started
 
