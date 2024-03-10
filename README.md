@@ -30,11 +30,12 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 
 ### Explore topics
 ![AIML section](./src/assets/aiml.png)
-![WEB-APP section](./src/assets/app-web.png)
-
 
 ![AIML section](./src/assets/aimlcards.png)
 ![AIML section](./src/assets/aimlcards2.png)
+![WEB-APP section](./src/assets/app-web.png)
+
+
 
 
 
