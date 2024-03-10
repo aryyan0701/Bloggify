@@ -26,10 +26,10 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 ### login/signup section
 <div class="container" >
 <div align="left" >
-  <img height="300" width="300" src="./src/assets/login.png" style="position: relative; z-index: 1;" />
+  <img height="200" width="350" src="./src/assets/login.png" style="position: relative; z-index: 1;" />
   </div>
   <div align="right" >
-  <img height="300" width="300" src="./src/assets/signup.png" style="position: relative; z-index: 1;" />
+  <img height="200" width="350" src="./src/assets/signup.png" style="position: relative; z-index: 1;" />
   </div>
 </div>
 
