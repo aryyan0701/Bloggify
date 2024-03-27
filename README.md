@@ -23,7 +23,7 @@ Welcome to the Bloggify Website! This website is dedicated to providing users wi
 ### Cards Section
 ![cards section](./src/assets/cards.png)
 
-### login/signup section
+### Login/Signup section
 
 ![signup section](./src/assets/signup.png)
 ![login section](./src/assets/login.png)
